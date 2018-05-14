@@ -12,17 +12,18 @@ https://docs.google.com/presentation/d/1is9cpPJhGqPTseEZOU7j5yEdpBQeg0oAHoq74J6J
 
 ##Modélisation : Régression multinomiale
 ###Théorie : 
-- Comment comparer deux modèles ?
-- Econométrie et Machine Learning
-- Que peut-on prédire ?
+	- Comment comparer deux modèles ?
+	- Econométrie et Machine Learning
+	- Que peut-on prédire ?
 ###Cas Pratique : Prédiction du salaire (par modèles économétriques)
 https://docs.google.com/presentation/d/1QN5bw585fTD6ppsrY2U-0U_bQcJG4WwnEapUcfmIWAs/preview
 
 # II. Machine Learning
      
-     a. Boosting, Regression Tree, Gradient
-          - Théorie
-          - Cas Pratique : Prédiction du salaire II (par modèles Machine Learning)
+##Boosting, Regression Tree, Gradient
+###Théorie
+###Cas Pratique : Prédiction du salaire II (par modèles Machine Learning)
+https://docs.google.com/presentation/d/1Ale-HnPElFmcSkq8FPzraygIKZuAygILnNJj7bOY928/preview
 
      b. Réseaux de neurones (introduction)
           - Théorie
