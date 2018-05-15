@@ -1,4 +1,4 @@
-Plan du cours
+#Plan du cours
 
 # 0. Introduction Statistiques et Machine Learning
 https://docs.google.com/presentation/d/1M6horPFjIoQr9qR4M1ens85qqPr1BGmA0u_f5n8NBDQ/preview
@@ -11,9 +11,7 @@ https://docs.google.com/presentation/d/1is9cpPJhGqPTseEZOU7j5yEdpBQeg0oAHoq74J6J
 
 ##Modélisation : Régression multinomiale
 ###Théorie : 
-	- Comment comparer deux modèles ?
-	- Econométrie et Machine Learning
-	- Que peut-on prédire ?
+Comment comparer deux modèles ? Econométrie et Machine Learning. Que peut-on prédire ?
 ###Cas Pratique : Prédiction du salaire (par modèles économétriques)
 https://docs.google.com/presentation/d/1QN5bw585fTD6ppsrY2U-0U_bQcJG4WwnEapUcfmIWAs/preview
 
