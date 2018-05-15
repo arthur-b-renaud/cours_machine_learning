@@ -4,7 +4,6 @@ Plan du cours
 https://docs.google.com/presentation/d/1M6horPFjIoQr9qR4M1ens85qqPr1BGmA0u_f5n8NBDQ/preview
 
 # I. Modélisation Statistique
-     
 ## a. Nettoyage de données, Manipulation de données et statistiques descriptives
 ### Théorie
 ### Cas Pratique : Analyse données Télévision (source INSEE)
@@ -22,13 +21,10 @@ https://docs.google.com/presentation/d/1QN5bw585fTD6ppsrY2U-0U_bQcJG4WwnEapUcfmI
      
 ##Boosting, Regression Tree, Gradient
 ###Théorie
-###Cas Pratique : Prédiction du salaire II (par modèles Machine Learning)
 https://docs.google.com/presentation/d/1Ale-HnPElFmcSkq8FPzraygIKZuAygILnNJj7bOY928/preview
-
-     b. Réseaux de neurones (introduction)
-          - Théorie
-          - Cas Pratique : Lecture de digits (base MNIST)
-
+###Cas Pratiques : 
+https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
 
 # Pré-requis techniques: 
 Python 3.5+, notebook jupyter et modules python : pandas / scikit-learn / matplotlib
